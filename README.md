@@ -34,9 +34,9 @@
 
 ---
 
-### :woman_technologist: Lets'GAVEL :
+### :space_invader: Lets'GAVEL :
 
-
+Gavel is a live shopping marketplace for retailers in the EU, starting with comic stores. We allow shop owners to turn their offline store into a live and interactive online store within a few seconds. With our passion for technology, we build the best platform to connect, buy and sell with and from each other.
 
 <!--
 **letsgavel/letsgavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
