@@ -12,6 +12,12 @@
   <a href="https://twitter.com/lets_gavel">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://discord.gg/t3K9EY6F">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.facebook.com/lets.gavel">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
 
 ### Hey there 👋
