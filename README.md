@@ -38,6 +38,14 @@
 
 Gavel is a live shopping marketplace for retailers in the EU, starting with comic stores. We allow shop owners to turn their offline store into a live and interactive online store within a few seconds. With our passion for technology, we build the best platform to connect, buy and sell with and from each other.
 
+- :telescope: We are a Berlin-based and globally distributed team of live streaming enthusiasts and we are looking for you!
+
+- :seedling: We offer you a long-term career path and want to grow the company together with you. You will get a lot of insights.
+
+- :zap: We use the benefits of our digital world, to be faster than everyone else. We love the remote and asynchronous way of working.
+
+- :mailbox:Wanna know more?: [![Linkedin Badge](https://img.shields.io/badge/-GAVEL-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/letsgavel/mycompany/)
+
 <!--
 **letsgavel/letsgavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
