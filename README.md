@@ -30,17 +30,72 @@
 
 ---
 
-### :space_invader: Lets'GAVEL :
+### :space_invader: Lets'GAVEL!!!
+
+## 🙌 Why working at Gavel
 
 Gavel is a live shopping marketplace for retailers in the EU, starting with comic stores. We allow shop owners to turn their offline store into a live and interactive online store within a few seconds. With our passion for technology, we build the best platform to connect, buy and sell with and from each other.
 
-- :telescope: We are a Berlin-based and globally distributed team of live streaming enthusiasts and we are looking for you!
+<aside>
+👉 Check out our app on the [Apple App Store](http://letsgavel.com/ios) and [Google Play Store](http://letsgavel.com/android).
+</aside>
 
-- :seedling: We offer you a long-term career path and want to grow the company together with you. You will get a lot of insights.
+Being part of GAVEL is more than a job — it's a journey. It is working in a fast-growing startup with a fundamental impact on e-commerce. Regular online stores don't cut it anymore. Being community- and data-driven is what defines our DNA 🤩
 
-- :zap: We use the benefits of our digital world, to be faster than everyone else. We love the remote and asynchronous way of working.
+We are backed by the world's most prestigious and well-known VCs and Business Angels. We grow fast and will grow even faster together with you!
 
-- :mailbox:Wanna know more?: [![Linkedin Badge](https://img.shields.io/badge/-GAVEL-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/letsgavel/mycompany/)
+**This is your chance to be part of something big from the beginning. So roll up your sleeves and get involved 💪**
+
+## 🌍 Join GAVEL from around the world
+
+We are a Berlin-based and globally distributed team of live streaming enthusiasts and we are looking for you!
+
+## Our Culture
+
+> *"Working with such a focused and tech-savvy team really encourages you to make the world a better place and help society discover new technology!"*
+> 
+
+
+👐 **Structure & Transparency**
+- No false promises. We offer you a long-term career path and want to grow the company together with you. You will get a lot of insights.
+
+🔥 **Exciting Technology**
+- At Gavel we focus on cutting-edge things, like live-streaming, bidding in real-time auctions, a lot of data analysis, and even computer vision.
+
+🙏 **Belonging & Flexibility**
+- We value your inputs and the energy you give to Gavel. We want to foster trust by giving you flexibility in how and where you work.
+
+🌍 **Async Working**
+- We want to use the benefits of our digital world, to be faster than everyone else. We love the remote and asynchronous way of working.
+
+
+## Our Core Values
+
+
+⚙ **Automate tasks**
+We avoid repetitive tasks and "think" automated.
+
+🚧 **80:20**
+We ship fast and focus on added value.
+
+🎯 **ZDF* / Data-driven**
+Numbers, data, and facts are the real thing.
+
+
+## The Idea
+
+Europe has a unique and rich culture, and tremendous diversity, and people are super open-minded. BUT shop owners here are not tech-savvy at all and sadly very old-fashioned sellers. GAVEL is here to change that. Long-live live shopping 🔥
+
+🤩 **GAVEL brings the people factor back to online shopping**
+
+
+🥰 **GAVEL truly connects
+like-minded collectors**
+
+We empower enthusiasts to host their own shows and turn their hobby into a real business. We start with trading cards, but there is a broad variety of collectibles ahead.
+
+ <img src=""/>
+
 
 <!--
 **letsgavel/letsgavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -92,3 +147,4 @@ Here are some ideas to get you started:
 ### :writing_hand: Blog Posts :
 
 
+:mailbox:Wanna know more?: [![Linkedin Badge](https://img.shields.io/badge/-GAVEL-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/letsgavel/mycompany/)
