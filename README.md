@@ -97,6 +97,7 @@ We empower enthusiasts to host their own shows and turn their hobby into a real 
  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc9901d74-e15d-4ed6-b299-d5afbf0a2685%2FApp_LiveSnapshots_for_Gavels_career_Site.png?table=block&id=da47c005-f091-419e-a87a-6d2e952d1093&spaceId=91018255-de52-4429-a9a8-f9c0cf5029f0&width=2000&userId=a9f2b505-9029-4d92-b1d1-fa1f004201b9&cache=v2"/>
 
 
+
 <!--
 **letsgavel/letsgavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -133,6 +134,56 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
+
+
+<img src="https://img.icons8.com/ios/452/javascript--v1.png" alt="https://img.icons8.com/ios/452/javascript--v1.png" width="40px" /> **Javascript-driven**
+We use JS along with the whole stack: Node, Express, ReactNative. We virtualize our API with Docker behind an NGINX and deploy it automated. We code sustainably, use Typescript, and foster test-driven development. We try to understand Javascript execution deeply.
+
+
+<img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="40px" /> **Experience-driven**
+We use a bunch of APIs, services, and modules to create the unique live-streaming and real-time shopping experience, Gavel stands for. We constantly refactor and optimize our code to keep it smooth and performant. Our user journey is shaped by simplicity.
+
+
+**Data-driven**
+We are constantly prototyping, as we develop new features only if they bring added value to our users. We analyze behavioral data to prove that our users like it. We use computer vision and recommendation algorithms to make the UX as catchy and simple as possible.
+
+---
+
+## Working at Gavel
+
+## 🥳 Perks & benefits
+
+💶 Competitive compensation
+
+💎 Quality-driven environment
+
+🏡 Remote or Office in *Berlin Mitte*
+
+🖥 Latest work equipment
+
+🪴 Budget for your home office *
+
+** Available after three months*
+
+🎫 Coaching, courses, and events
+
+🏖 30 paid vacation days
+
+⌚ Flexible working hours
+
+🥳 Regular team retreats
+
+☕️ Free barista coffee **
+
+*** Available in our Berlin office*
+
+### Special perks
+
+
+👩‍💻 For women: a yearly membership to "[the female factor](https://www.femalefactor.global/)" for personal development (upon request)
+
+
+🏥 For non-EU / non-US workers: international health insurance for personal safety
 
 ---
 
