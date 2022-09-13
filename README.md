@@ -94,7 +94,7 @@ like-minded collectors**
 
 We empower enthusiasts to host their own shows and turn their hobby into a real business. We start with trading cards, but there is a broad variety of collectibles ahead.
 
- <img src=""/>
+ <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc9901d74-e15d-4ed6-b299-d5afbf0a2685%2FApp_LiveSnapshots_for_Gavels_career_Site.png?table=block&id=da47c005-f091-419e-a87a-6d2e952d1093&spaceId=91018255-de52-4429-a9a8-f9c0cf5029f0&width=2000&userId=a9f2b505-9029-4d92-b1d1-fa1f004201b9&cache=v2"/>
 
 
 <!--
